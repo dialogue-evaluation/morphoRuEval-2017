@@ -18,5 +18,5 @@ https://github.com/dialogue-evaluation/morphoRuEval-2017/tree/LiveJournal
 
 https://github.com/dialogue-evaluation/morphoRuEval-2017/tree/librusec
 
-Пароль на архивы - Morporueval
+Пароль на архивы - Morphorueval
 
