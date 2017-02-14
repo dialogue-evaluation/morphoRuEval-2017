@@ -1,5 +1,6 @@
 # MorphoRuEval
 материалы к соревнованию MorphoRuEval-2017
+http://www.dialog-21.ru/evaluation/2017/morphorueval/ 
 
 illustration.txt - файл с примером формата и разметки обучающих данных.
 
