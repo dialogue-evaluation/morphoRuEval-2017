@@ -18,6 +18,7 @@ PRON.txt -  конечный список всех местоимений для
 ### НКРЯ UD
 (доступен по лицензии!) 
 https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/RNC_license_1mln-UD.docx
+
 https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/RNC_texts.rar
 
 ### Открытый корпус UD
