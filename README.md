@@ -14,6 +14,7 @@ PRON.txt -  конечный список всех местоимений для
 
 ## Размеченные материалы лежат:
 ### ГИКРЯ UD
+https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/GIKRYA_texts.rar
 
 ### НКРЯ UD
 (доступен по лицензии!) 
