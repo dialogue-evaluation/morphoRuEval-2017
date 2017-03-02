@@ -4,6 +4,7 @@ http://www.dialog-21.ru/evaluation/2017/morphorueval/
 
 ## Описание морфологии и правил:
 https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/morphostandard
+
 illustration.txt - файл с примером формата и разметки обучающих данных.
 
 DET.txt - конечный список всех детерминаторов для русского языка в формате universal dependencies
