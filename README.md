@@ -18,7 +18,7 @@ https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/GIKRYA_text
 
 ### НКРЯ UD
 (доступен по лицензии!) 
-https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/RNC_license_1mln-UD.docx
+https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/RNC_license_1mln-UD.pdf
 
 https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/RNC_texts.rar
 
