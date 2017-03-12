@@ -51,14 +51,14 @@ def get_cats_to_measure(pos):
     else:
         return []
 
+VALUE_ALIASES = {'Brev': ["Short", "Brev"], 'Short': ["Short", "Brev"], "Notpast": ["Pres", "Fut"], "NumForm": ["Form"]}
+
 def are_equal_tags(pos, first, second):
     cats_to_measure = get_cats_to_measure(pos)
     for cat, value in first.items():
         if cat in cats_to_measure:
             second_value = second.get(cat)
-            if not (second_value == value or
-                     (cat == "Variant" and value in ["Short", "Brev"]
-                      and second_value in ["Short", "Brev"])):
+            if not (second_value == value or second_value in VALUE_ALIASES.get(value, [])):
                 return False
     return True
 
