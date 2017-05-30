@@ -2,6 +2,13 @@
 материалы к соревнованию MorphoRuEval-2017
 http://www.dialog-21.ru/evaluation/2017/morphorueval/ 
 
+## Результаты соревновния
+### Итоговая таблица:
+https://docs.google.com/spreadsheets/d/1npLGIvfxtjRiLRuQjd1rkbnr-nlKBWC_yKd_0nRYTnE/edit
+
+### Тестовая выборка, скрипты для ее извлечения и лучшие прогоны всех участников:
+https://drive.google.com/drive/folders/0B600DBw1ZmZASDFRVkJVd0pqNXM
+
 ## Описание морфологии и правил:
 https://github.com/dialogue-evaluation/morphoRuEval-2017/blob/master/morphostandard
 
