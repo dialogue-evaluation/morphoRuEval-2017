@@ -18,6 +18,7 @@ https://docs.google.com/spreadsheets/d/1npLGIvfxtjRiLRuQjd1rkbnr-nlKBWC_yKd_0nRY
  - team F https://github.com/Koziev/MorphoRuEval2017
  - team M https://github.com/nvanva/MorphoBabushka 
  - team O https://github.com/kzn/morphoRuEval
+ - team E https://github.com/IlyaGusev/rnnmorph/ (OpenSource вариант с изменениями)
  
  ### Papers
  - Organizers paper http://www.dialog-21.ru/media/3951/sorokinaetal.pdf 
